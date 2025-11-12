@@ -95,7 +95,7 @@ don't already have Gemini API key, create a key in Google AI Studio on the
 In a terminal window, write your API key into an `.env` file as an environment variable:
 
 ```console title="Update: my_agent/.env"
-echo 'GOOGLE_API_KEY="YOUR_API_KEY"' > .env
+echo 'GOOGLE_API_KEY="AIzaSyCNII5Ov3MXN_9aJpwqLuczjYCgEvXxNyQ"' > .env
 ```
 
 ??? tip "Using other AI models with ADK"
